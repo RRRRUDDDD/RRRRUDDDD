@@ -1,5 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
-
 # Hi <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="30px">, I'm RUD<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://komarev.com/ghpvc/?username=RRRRUDDDD">
 
 <a href="https://github.com/RRRRUDDDD">
